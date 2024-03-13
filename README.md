@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **advancing my coding skills**
  
- 🌱 I’m currently learning **Java, C, Matlab**
+ 🌱 My Coding Languages: **Java, C, Matlab** (Intermediate) as well as **HTML, CSS and Python** (Basic).
 
 💬 Very interested in anything related to artificial intelligence!
 
