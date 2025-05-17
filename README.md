@@ -10,11 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **advancing my coding skills**
- 
- 🌱 My Coding Languages: **Java, C, Matlab** (Intermediate) as well as **HTML, CSS and Python** (Basic).
-
-💬 Very interested in anything related to artificial intelligence!
+Creating my own Project from scratch and advancing on integration of AI in education.
+Follow my journey to see where it goes!
 
  </div>
  
