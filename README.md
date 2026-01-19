@@ -9,9 +9,6 @@
 <br/>
 
 <div align="center">
- 
-Creating my own Project from scratch and advancing on integration of AI in education.
-Follow my journey to see where it goes!
 
  </div>
  
